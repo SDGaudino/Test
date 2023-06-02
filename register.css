@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind&display=swap');
+body {
+    font-family: 'Hind', sans-serif;
+    background-color: rgb(68, 209, 209);
+}
+
+footer{
+    background-color: rgb(42, 165, 124);
+    border-radius: 10px; 
+    text-align: center;
+}
+.div_prin{
+    background-color: rgb(138, 43, 226);
+    border-radius: 10px; 
+    text-align: center;
+}
+.div_prin label{
+    background-color: rgb(34, 145, 39);
+    border-radius: 2%;
+    padding: 4px;
+
+}
+.home{
+    text-align: end;
+}

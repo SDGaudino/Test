@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind&display=swap');
+body {
+    font-family: 'Hind', sans-serif;
+    background-color: rgb(68, 209, 209);
+    
+}
+
+.titulo{
+    text-align: center;
+    font-size: larger;
+}
+
+footer{
+    background-color: rgb(42, 165, 124);
+    border-radius: 10px; 
+    text-align: center;
+   }
+
+.registro{
+    text-align: end;
+}
+
+.registro button{
+    border-radius: 15%;
+    padding: 0.5%;
+    background-color: rgb(194, 47, 59);
+    font-size: larger;
+    color: rgb(0, 0, 0);
+}
+.registro button:hover{
+    background-color:rgb(185, 146, 46) ;
+}
+li{
+    list-style:none
+}
